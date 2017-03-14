@@ -4,7 +4,7 @@
 
 ## Quickstart:
 
-This project was created and tested using a Vagrant virtual machine and PostgreSQL.
+This project was created and tested using a Vagrant virtual machine and PostgreSQL. Please see "Step by step instructions for launch" section below.
 
 ## What’s included:
 
