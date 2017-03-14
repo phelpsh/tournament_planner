@@ -20,7 +20,8 @@ This project was created and tested using a Vagrant virtual machine and PostgreS
 * Start the vagrant virtual machine terminal from within the installation folder by typing **vagrant ssh** in the command line.
 * Change to the vagrant directory using **cd /vagrant**
 * Change to the tournament directory using **cd tournament** 
-* create the necessary tables by running **psql \i tournament.sql**
+* Start PostgreSQL using **psql**
+* create the necessary tables by running **\i tournament.sql**
 * run **python tournament_test.py** to test the database query
 
 ## Creator
